@@ -18,5 +18,15 @@ public class MyTest {
         User user = mapper.findUser("haohao", "haohao");
         System.out.println(user);
     }
+    @Test
+    public void test() {
+        System.out.println("hello1111111111");
+        System.out.println("hello1111111111");
+        System.out.println("hello1111111111");
+        System.out.println("hello1111111111");
+        System.out.println("hello1111111111");
+        System.out.println("hello1111111111");
+        System.out.println("hello1111111111");
+    }
 
 }
